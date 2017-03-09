@@ -50,13 +50,13 @@ Partial Class Form1
         Me.ContextMenuStrip1.ImageScalingSize = New System.Drawing.Size(24, 24)
         Me.ContextMenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.OpenToolStripMenuItem, Me.AboutToolStripMenuItem, Me.ExitToolStripMenuItem})
         Me.ContextMenuStrip1.Name = "ContextMenuStrip1"
-        Me.ContextMenuStrip1.Size = New System.Drawing.Size(148, 94)
+        Me.ContextMenuStrip1.Size = New System.Drawing.Size(212, 127)
         '
         'OpenToolStripMenuItem
         '
         Me.OpenToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.CustomToolStripMenuItem, Me.NotepadToolStripMenuItem, Me.PaintToolStripMenuItem, Me.CpadToolStripMenuItem})
         Me.OpenToolStripMenuItem.Name = "OpenToolStripMenuItem"
-        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(147, 30)
+        Me.OpenToolStripMenuItem.Size = New System.Drawing.Size(211, 30)
         Me.OpenToolStripMenuItem.Text = "Open"
         '
         'AboutToolStripMenuItem
